@@ -1,0 +1,8 @@
+/hh_django_react/.idea/
+*__pycache__
+/hh_django_react/venv/
+*.idea/
+*.idea
+front/node_modules
+front/node_modules/.cache/*
+node_modules
