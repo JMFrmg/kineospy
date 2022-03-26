@@ -4,4 +4,4 @@ spacy
 string
 textblob
 textblob_fr
-
+sklearn
