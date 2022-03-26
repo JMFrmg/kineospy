@@ -1,0 +1,5 @@
+/hh_django_react/.idea/
+*__pycache__
+/hh_django_react/venv/
+*.idea/
+*.idea
