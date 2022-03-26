@@ -1,0 +1,7 @@
+pandas
+re
+spacy
+string
+textblob
+textblob_fr
+
